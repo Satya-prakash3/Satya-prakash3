@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Satyaprakash Sethy</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.secjuice.com/content/images/size/w2000/2018/07/computer.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash3&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash3" /> </p>
 
