@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **satyaprakashsethy905@gmail.com**
 
-- 📄 Know about my experiences https://docs.google.com/document/d/1fyhFVEz7reSq5LRMrq3MJLwXAT18x1pT5Yqn32uEu8U/edit?usp=sharing)
+- 📄 Know about my experiences https://docs.google.com/document/d/1fyhFVEz7reSq5LRMrq3MJLwXAT18x1pT5Yqn32uEu8U/edit?usp=sharing
 
 - ⚡ Fun fact **I am a passionate cook**
 
