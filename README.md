@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/satya-prakash3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satya-prakash3" height="30" width="40" /></a>
+<a href="https://twitter.com/I_am_satya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satya-prakash3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyaprakash-sethy-b432b1218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyaprakash-sethy-b432b1218" height="30" width="40" /></a>
 <a href="https://kaggle.com/satyaprakash138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyaprakash138" height="30" width="40" /></a>
 </p>
