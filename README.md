@@ -78,6 +78,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakash3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakash3&show_icons=true&locale=en&layout=compact" alt="satya-prakash3" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash3&" alt="satya-prakash3" /></p>
