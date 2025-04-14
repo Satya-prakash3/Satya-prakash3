@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Chat API**
 - 🌱 I’m currently learning **C and React**
-- 💬 Ask me about **Django, Machine Learning, Computer Vision**
+- 💬 Ask me about **Linux, Django, Machine Learning, Computer Vision**
 - 📫 Reach me at **satyaprakashsethy905@gmail.com**
 - 📄 Know about my experiences [here](https://docs.google.com/document/d/1fd4x4BKNHhr4naciasUelpXyrTNlAQP_F75ntCEZppo/edit?usp=sharing)
 
