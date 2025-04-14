@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **C and React**
 - 💬 Ask me about **Django, Machine Learning, Computer Vision**
 - 📫 Reach me at **satyaprakashsethy905@gmail.com**
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fd4x4BKNHhr4naciasUelpXyrTNlAQP_F75ntCEZppo/edit?usp=sharing](https://docs.google.com/document/d/1fd4x4BKNHhr4naciasUelpXyrTNlAQP_F75ntCEZppo/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1fd4x4BKNHhr4naciasUelpXyrTNlAQP_F75ntCEZppo/edit?usp=sharing)
 
 ---
 
