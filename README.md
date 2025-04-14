@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Satyaprakash Sethy</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=I_am_satya3&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash3" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash3&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satya-prakash3" alt="satya-prakash3" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/satya-prakash3" target="blank"><img src="https://img.shields.io/twitter/follow/satya-prakash3?logo=twitter&style=for-the-badge" alt="satya-prakash3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/i_am_satya3" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_satya3?logo=twitter&style=for-the-badge" alt="i_am_satya3" /></a> </p>
 
 - 🔭 I’m currently working on **Chat API**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/I_am_satya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satya-prakash3" height="30" width="40" /></a>
+<a href="https://twitter.com/i_am_satya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_satya3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyaprakash-sethy-b432b1218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyaprakash-sethy-b432b1218" height="30" width="40" /></a>
 <a href="https://kaggle.com/satyaprakash138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="satyaprakash138" height="30" width="40" /></a>
 </p>
