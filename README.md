@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satya-prakash3&label=Profile%20views&color=a9fc03&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=satya-prakash3&label=Profile%20views&color=034efc&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
