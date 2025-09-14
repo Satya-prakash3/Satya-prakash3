@@ -43,16 +43,12 @@
 </p>
 
 <!-- TryHackMe public badge (centered & responsive) -->
-<div align="center" style="margin-top:8px;">
-  <iframe
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5486761"
-    style="border:none; display:block; margin:0 auto;"
-    width="320"
-    height="180"
-    loading="lazy"
-    title="TryHackMe Badge - Satya Prakash"
-  ></iframe>
-</div>
+<p align="center">
+  <!-- social icons above -->
+  <a href="https://tryhackme.com" target="_blank" rel="noopener">
+    <img src="assets/tryhackme_badge.png" alt="TryHackMe Badge" width="320" />
+  </a>
+</p>
 
 ---
 
