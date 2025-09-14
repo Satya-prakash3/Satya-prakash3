@@ -42,14 +42,6 @@
   </a>
 </p>
 
-<!-- TryHackMe public badge (centered & responsive) -->
-<p align="center">
-  <!-- social icons above -->
-  <a href="https://tryhackme.com" target="_blank" rel="noopener">
-    <img src="assets/tryhackme_badge.png" alt="TryHackMe Badge" width="320" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Languages & Tools
