@@ -40,6 +40,9 @@
   <a href="https://kaggle.com/satyaprakash138" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="kaggle" />
   </a>
+  <a href="https://tryhackme.com/p/LeviathanXhunter" target="_blank" rel="noopener">
+    <img src="https://tryhackme.com/favicon.ico" height="30" width="40" alt="kaggle" />
+  </a>
 </p>
 
 ---
