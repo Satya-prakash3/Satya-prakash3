@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Chat API**
+- 🔭 I’m currently working on **StreamDock**
 - 🌱 I’m currently learning **C and React**
 - 💬 Ask me about **Linux, Django, Machine Learning, Computer Vision**
 - 📫 Reach me at **satyaprakashsethy905@gmail.com**
