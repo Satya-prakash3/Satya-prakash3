@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **StreamDock**
+- 🔭 I’m currently working on <a href="https://github.com/Satya-prakash3/StreamDock" target="blank">**StreamDock**</a>
 - 🌱 I’m currently learning **Penetration Testing**
 - 💬 Ask me about **Linux, Django, Machine Learning, Computer Vision**
 - 📫 Reach me at **satyaprakashsethy905@gmail.com**
