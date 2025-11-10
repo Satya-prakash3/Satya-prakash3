@@ -1,56 +1,51 @@
 # ✨ Hello World! 🌏 I'm Satyaprakash
 
-## 📫 Connect with me on
+## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/satyaprakashsethy/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 <a href="mailto:satyaprakashsethy905@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://twitter.com/I_am_satya3"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
-<a href="https://tryhackme.com/LeviathanXhunter"><img title="OpenSoft" src="https://tryhackme.com/apple-touch-icon.png"/></a>  
+<a href="https://twitter.com/I_am_satya3"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://tryhackme.com/LeviathanXhunter"><img title="TryHackMe" src="https://tryhackme.com/apple-touch-icon.png" width="50"/></a>
 
-## 👩‍💻 I am currently a
+---
 
-- Project Engineer @C-DAC, Hyderabad
+## 👩‍💻 Currently
 
-## 🤩 I was a
+- Project Engineer @ **C-DAC, Hyderabad**
+- Working on backend engineering, security, and scalable architectures
 
-- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
-- LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
-- Technical Coach @AnitaB.org
-- LFX Mentee @Hyperledger -  Documentation Standards
-- Harvard WECode '23 Tech Fellow
-- Member & Contributor @Layer5 @Meshery
-- MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
-- MLH Prep Fellow July '22
-- Open Source Hack Mentor July '22 and October '22
-- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
-- B. Tech CSE '23
+---
 
-## 🏆 Achievements
+## 🏆 Achievements & Work
 
-- [#DebuggingFeb Writeathon](https://townhall.hashnode.com/debuggingfeb-writeathon-winners) Third prize winner for writing an article on [Debugging CSS with Chrome DevTools.](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
-- Harvard WECode Distinguished Fellow Award
-- [WeMakeDevs Hashnode blogging challenge Special Track](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) winner for writing a blog on [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
-- Harvard WEAmplify Extended Scholar '23
-- Speaker at GDG DevFest Kolkata '22 - Gave a talk on how and why to contribute to open source
-- Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
-- Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
-- Women in Tech Global Conference (WTGC) Scholar '22
-- GATE CS '22 AIR 1048
+- Built production-grade backend systems with FastAPI, MongoDB, Redis, Celery, and Docker  
+- Implemented secure authentication workflows with JWT, asymmetric keys, session tracking, and token rotation  
+- Designed distributed architectures and optimized system performance for enterprise workloads  
+- Active contributor to cybersecurity labs, reverse engineering, and threat analysis  
+- TryHackMe Profile: **LeviathanXhunter**
 
-## Research Publications
+---
 
-### Enhanced Efficient Fast Data Availability Sampling under Majority Dishonest Byzantine Attacks
-First Author — Year: 2025 — Conference Paper (BCCA) — Publisher: IEEE
+## 🔧 Technologies & Tools
 
-### On the Design of Ethereum’s Data Availability Sampling: A Comprehensive Simulation Study ([Paper Link](https://arxiv.org/abs/2407.18085))
-First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
+**Languages:** Python, JavaScript, TypeScript, Bash  
+**Backend:** FastAPI, Django, DRF, Celery, Redis, WebSockets  
+**Frontend:** React, Next.js  
+**Databases:** MongoDB, PostgreSQL, Redis, ChromaDB  
+**Security:** JWT, OAuth2, Key Rotation, Encryption Standards, Linux System Security  
+**DevOps:** Docker, Linux, GitHub Actions, CI/CD  
+**AI/ML:** LLMs, Vector Databases, RAG Systems  
 
-## 📈 GitHub Statistics
+---
+
+## 📊 GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Satya-prakash3&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-prakash3&theme=radical" width="48%" >
 
-<a href="https://github.com/tinniaru3005">
+<a href="https://github.com/Satya-prakash3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-prakash3&theme=radical&layout=compact&">
 </a>
+
+---
