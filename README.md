@@ -2,12 +2,14 @@
 
 ## 📫 Connect with me on
 
-<a href="https://www.linkedin.com/in/satyaprakashsethy/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:satyaprakashsethy905@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/I_am_satya3"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/@ArunimaChaudhuri"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
+<a href="https://www.linkedin.com/in/satyaprakashsethy/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+<a href="mailto:satyaprakashsethy905@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/I_am_satya3"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  
+<a href="https://tryhackme.com/LeviathanXhunter"><img title="OpenSoft" src="https://tryhackme.com/apple-touch-icon.png"/></a>  
 
 ## 👩‍💻 I am currently a
 
-- Research Engineer @Status
-- Lead @WiEP (Women in Ethereum Protocol) Cohort 4
+- Project Engineer @C-DAC, Hyderabad
 
 ## 🤩 I was a
 
