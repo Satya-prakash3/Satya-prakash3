@@ -28,7 +28,8 @@
 
 - Project Engineer @ **C-DAC Hyderabad**
 - Backend developer working with Python, FastAPI, JWT, OAuth2, Redis  
-- Interested in system security, cryptography, secure API design  
+- Interested in system security, cryptography, secure API design
+- Currently Working on <a href="https://github.com/Satya-prakash3/StreamDock"> **StreamDock** </a>
 
 ---
 
@@ -74,7 +75,7 @@
 
 - Active on **TryHackMe**, focusing on cybersecurity fundamentals  
 - Kaggle learner exploring datasets, ML basics & Python workflows  
-- Cybersecurity specialization (PG-DITISS)  
+- Cybersecurity specialization
 - Created multiple backend projects using secure token flows, key rotation, and Redis-based session systems
 
 ---
