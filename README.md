@@ -29,8 +29,6 @@
 - Project Engineer @ **C-DAC Hyderabad**
 - Backend developer working with Python, FastAPI, JWT, OAuth2, Redis  
 - Interested in system security, cryptography, secure API design  
-- PG-DITISS (Cybersecurity) — C-DAC  
-- B.Tech CSE — GCE Keonjhar  
 
 ---
 
