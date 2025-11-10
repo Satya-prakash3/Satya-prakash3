@@ -45,10 +45,10 @@ First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
 
 ## 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Satya-prakash3&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-prakash3&theme=radical" width="48%" >
 
 <a href="https://github.com/tinniaru3005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=radical&layout=compact&">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-prakash3&theme=radical&layout=compact&">
 </a>
