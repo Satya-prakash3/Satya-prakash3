@@ -1,84 +1,54 @@
-<h1 align="center">Hi 👋, I'm Satyaprakash Sethy</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+# ✨ Hello World! 🌏 I'm Satyaprakash
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satya-prakash3&label=Profile%20views&color=034efc&style=flat" alt="Profile views" />
-</p>
+## 📫 Connect with me on
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satya-prakash3&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/satyaprakashsethy/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:satyaprakashsethy905@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/I_am_satya3"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>  <a href="https://hashnode.com/@ArunimaChaudhuri"><img title="OpenSoft" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>  
 
-<p align="center">
-  <a href="https://twitter.com/i_am_satya3" target="blank">
-    <img src="https://img.shields.io/twitter/follow/i_am_satya3?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+## 👩‍💻 I am currently a
 
----
+- Research Engineer @Status
+- Lead @WiEP (Women in Ethereum Protocol) Cohort 4
 
-### 🚀 About Me
+## 🤩 I was a
 
-- 🔭 I’m currently working on <a href="https://github.com/Satya-prakash3/StreamDock" target="blank">**StreamDock**</a>
-- 🌱 I’m currently learning **Penetration Testing**
-- 💬 Ask me about **Linux, Django, Machine Learning, Computer Vision**
-- 📫 Reach me at **satyaprakashsethy905@gmail.com**
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1fd4x4BKNHhr4naciasUelpXyrTNlAQP_F75ntCEZppo/edit?usp=sharing)
+- Research and Development Intern @Status ([PR Links](https://gist.github.com/tinniaru3005/c8c7450506ce881eee11ace681487eef))
+- LFX Mentor for Hyperledger Labs AI-FAQ LLM ChatBot GUI implementation and prototype deployment mentorship program
+- Technical Coach @AnitaB.org
+- LFX Mentee @Hyperledger -  Documentation Standards
+- Harvard WECode '23 Tech Fellow
+- Member & Contributor @Layer5 @Meshery
+- MLH Fall Fellow '22 @Solana Labs on the Software Engineering track
+- MLH Prep Fellow July '22
+- Open Source Hack Mentor July '22 and October '22
+- M. Tech CSE '25 at National Institute of Technology Warangal (NITW).
+- B. Tech CSE '23
 
----
+## 🏆 Achievements
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://twitter.com/i_am_satya3" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/satyaprakash-sethy-b432b1218" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="linkedin" />
-  </a>
-  <a href="https://kaggle.com/satyaprakash138" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="kaggle" />
-  </a>
-  <a href="https://tryhackme.com/p/LeviathanXhunter" target="_blank" rel="noopener">
-    <img src="https://tryhackme.com/favicon.ico" height="30" width="40" alt="kaggle" />
-  </a>
-</p>
+- [#DebuggingFeb Writeathon](https://townhall.hashnode.com/debuggingfeb-writeathon-winners) Third prize winner for writing an article on [Debugging CSS with Chrome DevTools.](https://arunima.hashnode.dev/debugging-css-with-chrome-devtools)
+- Harvard WECode Distinguished Fellow Award
+- [WeMakeDevs Hashnode blogging challenge Special Track](https://github.com/WeMakeDevs/events/blob/main/hashnode/README.md) winner for writing a blog on [Growth With Collaborations](https://arunima.hashnode.dev/growth-with-collaborations)
+- Harvard WEAmplify Extended Scholar '23
+- Speaker at GDG DevFest Kolkata '22 - Gave a talk on how and why to contribute to open source
+- Dan Kohn Student Scholar '22 for attending KubeCon + CloudNativeCon North America
+- Linux Foundation Training (LiFT) Scholar '22 in Women in Open Source category
+- Women in Tech Global Conference (WTGC) Scholar '22
+- GATE CS '22 AIR 1048
 
----
+## Research Publications
 
-### 🛠️ Languages & Tools
+### Enhanced Efficient Fast Data Availability Sampling under Majority Dishonest Byzantine Attacks
+First Author — Year: 2025 — Conference Paper (BCCA) — Publisher: IEEE
 
-<p align="left">
-  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img title="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
-  <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img title="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img title="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img title="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img title="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-  <img title="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img title="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  <img title="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img title="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</p>
+### On the Design of Ethereum’s Data Availability Sampling: A Comprehensive Simulation Study ([Paper Link](https://arxiv.org/abs/2407.18085))
+First Author — Year: 2024 — Conference Paper (BRAINS) — Publisher: IEEE
 
----
+## 📈 GitHub Statistics
 
-### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=tinniaru3005&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakash3&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tinniaru3005&theme=radical" width="48%" >
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash3&" alt="satya-prakash3" /></p>
+<a href="https://github.com/tinniaru3005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinniaru3005&theme=radical&layout=compact&">
+</a>
