@@ -27,7 +27,7 @@
 ## 👤 About Me
 
 - Project Engineer @ **C-DAC Hyderabad**
-- Backend developer working with Python, FastAPI, JWT, OAuth2, Redis  
+- Backend developer working with Python, Django, FastAPI, JWT, OAuth2, Redis  
 - Interested in system security, cryptography, secure API design
 - Currently Working on <a href="https://github.com/Satya-prakash3/StreamDock"> **StreamDock** </a>
 
