@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00F7E7&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Satyaprakash;Backend+Engineer%20(FASTAPI%2C%20Python);Cybersecurity+%7C+JWT+%7C+OAuth2+%7C+Key+Rotation;Building+secure+backends+one+endpoint+at+a+time" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hello%2C+World!+I'm+Satyaprakash;Backend+Engineer%20(FASTAPI%2C%20Python);Cybersecurity+%7C+JWT+%7C+OAuth2+%7C+Key+Rotation;Building+secure+backends+one+endpoint+at+a+time" />
 
 </div>
 
