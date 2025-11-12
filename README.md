@@ -33,7 +33,7 @@
 
 ---
 
-# 🛠️ Skills (beautiful, hover-to-see-names)
+# 🛠️ Skills
 
 <div align="center">
 
