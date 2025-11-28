@@ -101,3 +101,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=6a00ff&height=3" />
 </p>
+
+![snake gif](https://github.com/Satya-prakash3/Satya-prakash3/blob/output/github-snake-dark.svg)
+
