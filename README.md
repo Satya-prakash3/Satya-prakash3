@@ -17,8 +17,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/satyaprakashsethy/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:satyaprakashsethy905@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/I_am_satya3" title="Twitter"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://tryhackme.com/p/LeviathanXhunter" title="TryHackMe Profile"><img width="42" src="https://tryhackme.com/img/favicon.png"/></a>
+  <a href="https://twitter.com/I_am_satya3" title="Twitter"><img src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.kaggle.com/satyaprakashsethy" title="Kaggle Profile"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
 
